@@ -13,7 +13,7 @@ Handles errors gracefully and prints error messages when translation fails.
 
 Maintains clarity for words like "feedback," "products," and "waiting."
 
-## Usag ##
+## Usage ##
 
 Install the required library using pip install googletrans==4.0.0-rc1.
 

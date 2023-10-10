@@ -5,16 +5,23 @@ This Python code provides a simple Hinglish translation tool using the Google Tr
 
 __Features__
 Accepts user input for English sentences.
+
 Translates English sentences into Hinglish.
+
 Handles errors gracefully and prints error messages when translation fails.
+
 Maintains clarity for words like "feedback," "products," and "waiting."
 
 __Usage__
 Install the required library using pip install googletrans==4.0.0-rc1.
+
 Run the code and input your English sentence.
+
 Receive the Hinglish translation with maintained clarity.
 
 __Example__
 Input: "Definitely share your feedback in the comment section."
+
 Output: "Definitely apna feedback comment section mein share karein."
+
 Enjoy translating English to Hinglish effortlessly!

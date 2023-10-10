@@ -1,6 +1,6 @@
 # Hinglish Translator Readme
 
-__Description__
+__Description:__
 This Python code provides a simple Hinglish translation tool using the Google Translate API. It allows users to input English sentences and receive their Hinglish translations. The code maintains clarity for certain words in English, ensuring the translation is easy to understand for non-native Hindi speakers.
 
 ## Features ##

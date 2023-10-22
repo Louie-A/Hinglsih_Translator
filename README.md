@@ -11,7 +11,7 @@ Translates English sentences into Hinglish.
 
 Handles errors gracefully and prints error messages when translation fails.
 
-Maintains clarity for words like "feedback," "products," and "waiting."
+Maintains clarity for words like "feedback", "products", and "waiting".
 
 ## Usage ##
 
@@ -34,6 +34,7 @@ Enjoy translating English to Hinglish effortlessly!
 This README provides instructions on how to run and evaluate a language model.
 
 ## Running the Model
+
 
 Follow these steps to run the model:
 

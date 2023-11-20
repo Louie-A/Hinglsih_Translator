@@ -11,7 +11,7 @@ Translates English sentences into Hinglish.
 
 Handles errors gracefully and prints error messages when translation fails.
 
-Maintains clarity for words like "feedback," "products," and "waiting."
+Maintains clarity for words like "feedback", "products", and "waiting".
 
 ## Usage ##
 
@@ -35,6 +35,7 @@ This README provides instructions on how to run and evaluate a language model.
 
 ## Running the Model
 
+
 Follow these steps to run the model:
 
 Setup Environment: Ensure you have the necessary dependencies and environment set up. If using Python, create a virtual environment and install required packages using requirements.txt if available.
@@ -51,7 +52,7 @@ Results: Analyze the model's output or predictions. This could be text generated
 
 To evaluate the model's performance, follow these guidelines:
 
-Define Metrics: Determine the appropriate metrics for evaluating the model. This could include accuracy, precision, recall, F1-score, mean squared error, etc., depending on the task.
+Define Metrics: Determine the appropriate metrics for evaluating the model. This could include percision, recall, accuracy, F1-score, mean squared error, etc., depending on the task.
 
 Test Data: Use a separate dataset or a portion of the dataset that the model hasn't seen during training for evaluation. This helps assess how well the model generalizes.
 
@@ -65,9 +66,4 @@ Documentation: Keep records of the evaluation process, including metrics, datase
 
 Feedback and Validation: Seek feedback from domain experts or users to validate the model's performance against real-world requirements.
 
-Remember that evaluating a model is an ongoing process, and performance metrics may change as new data becomes available or the model's usage evolves. Continuously monitor and update the model as needed to ensure optimal performance.
-
-
-
-
-
+Remember that evaluating a model is an ongoing process, and performance metrics may change as new data becomes available or the model's usage evolves. Continuously monitor and update the model as needed to ensure optimal performance
